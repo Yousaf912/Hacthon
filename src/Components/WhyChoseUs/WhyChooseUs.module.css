@@ -1,0 +1,13 @@
+.main{
+    width: 100%;
+    height: 400px;
+    background-color:#785ad8;
+    
+}
+.crd{
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    background-color: #bc6ff1;
+    color: white;
+}
